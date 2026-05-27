@@ -3,6 +3,7 @@
 A stochastic optimization project implementing the Simulated Annealing algorithm from scratch in Python to solve complex non-convex optimization problems.
 
 ---
+sample
 
 ## Overview
 
